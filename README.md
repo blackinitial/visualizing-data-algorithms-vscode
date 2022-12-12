@@ -58,3 +58,7 @@ Learn visualizing data structures and Algorithms with Extension on VS Code from 
 **Q: What is .mjs?**
 
 **A:** It indicates an ES6 module file. Read [this](https://stackoverflow.com/questions/57492546/what-is-the-difference-between-js-and-mjs-files)
+
+**Q: What is Palindrome?**
+
+**A: Palindrom adalah kata, frasa, dan angka yang akan terdengar sama walaupun dibaca dari belakang.**
